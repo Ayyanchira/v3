@@ -1,11 +1,11 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
-  - item: Python
-  - item: SQL
-  - item: R
+  - item: Swift
+  - item: Objective C
+  - item: Java
+  - item: C#
+  - item: MySQL
+  - item: MATLAB
+
 
 frameworks:
   - item: Ember & Glimmer
@@ -17,15 +17,13 @@ frameworks:
   - item: Timber
 
 tools:
-  - item: Bash
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
+  - item: Xcode
+  - item: Unity
+  - item: Github and Bitbucket
   - item: Postman
-  - item: MongoDB
 
 design:
-  - item: Sketch
+  - item: Figma
   - item: InDesign
   - item: InVision
   - item: Prototyping
