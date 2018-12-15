@@ -1,26 +1,24 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://brittanychiang.com/
+name: Akshay Ayyanchira
+title: Akshay Ayyanchira | iOS Mobile and Microsoft Hololens App Developer
+description: iOS developer and an AR enthusiast
+url: http://ayyanchira.github.io/
 baseurl: ""
-email: brittany.chiang@gmail.com
+email: ayyanchira.akshay@gmail.com
 cover: https://brittanychiang.com/img/og.png
 logo: https://brittanychiang.com/img/emojis/technologist.png
 resume: https://brittanychiang.com/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:ayyanchira.akshay@gmail.com
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/AAyyanchira
   - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
+    url: https://www.instagram.com/akshayayyanchira
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/Ayyanchira
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: www.linkedin.com/in/ayyanchira
 
 # Build settings
 markdown: kramdown

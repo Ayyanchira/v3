@@ -4,17 +4,23 @@ languages:
   - item: Java
   - item: C#
   - item: MySQL
+  - item: Node.JS
   - item: MATLAB
 
+# frameworks:
+#   - item: Ember & Glimmer
+#   - item: React
+#   - item: Jekyll
+#   - item: Node
+#   - item: D3
+#   - item: Wordpress
+#   - item: Timber
 
-frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+projectmanagement:
+  - item: HP Agile Manager
+  - item: Taiga
+  - item: Figma
+
 
 tools:
   - item: Xcode
@@ -22,10 +28,10 @@ tools:
   - item: Github and Bitbucket
   - item: Postman
 
-design:
-  - item: Figma
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+# design:
+#   - item: Figma
+#   - item: InDesign
+#   - item: InVision
+#   - item: Prototyping
+#   - item: Wireframing
+#   - item: User Testing
